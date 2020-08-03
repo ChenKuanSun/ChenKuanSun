@@ -19,7 +19,7 @@
 
 Hi, I'm ChenKuan, a full stack web developer from Taiwan.
 
-- 🔭 I’m currently working on my blog [CK Page](https://chenkuansun.github.io/)
+- 🔭 I’m currently working on headless e-commerce platform [SELLERLINX](https://sellerlinx.com/)
 - 🌱 I’m currently learning GraphQL & MongoDB
 - 💬 Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
 
@@ -28,7 +28,6 @@ Hi, I'm ChenKuan, a full stack web developer from Taiwan.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 <a href="https://github.com/chenkuansun/github-readme-stats">
 
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenkuansun&layout=compact&theme=algolia" />
 </a>
 
@@ -50,38 +49,48 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
 --->
 
-
-
 <br />
 <br />
 
 # My Side Project
 
+## MOPCON Section
+
+### MOPCON Section: [用一場演講的時間，建構一個有些 AI 的無伺服器 APP](https://mopcon.org/2019/schedule/?id=2019012)
+
+<a href="https://github.com/chenkuansun/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+</a>
+
 ## Angular
 
-### Mask map [Live Demo](https://stackblitz.com/edit/angular-tensorflow-demo) 
+### Mask Map
 
-<img height="200" alt="mask map screenshot" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/maskMap.png.png">
+<img height="200" alt="mask map screenshot" src="https://github.com/ChenKuanSun/ChenKuanSun/blob/master/assets/maskMap.png?raw=true">
 <!-- <a href="https://github.com/chenkuansun/github-readme-stats"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-web" />
 </a> -->
 
-### TensorflowJS with angular demo using model. [Live Demo](https://stackblitz.com/edit/angular-tensorflow-demo) 
+### TensorflowJS with angular demo using model. [Live Demo](https://stackblitz.com/edit/angular-tensorflow-demo)
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=angular-tensorflow-demo" />
 </a>
 
 ### TensorflowJS with angular demo using model.
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-angular-demo" />
 </a>
 
 ### code beautifier.
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=code-beautifier" />
 </a>
 
 ### Angular Pagination Component.
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Angular-Pagination" />
 </a>
@@ -89,13 +98,21 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 # My Hackathon
 
 ## AWS-Twitch-Hackathon
+
+### Price 3rd
+
 ### [Live Demo](https://www.twitch.tv/videos/509372078?t=06h59m28s)
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=2019-AWS-Twitch-Hackathon" />
 </a>
 
 ## TMU-MIT-Hackathon-2019
+
 ### [News](http://blog.tmu.edu.tw/tmubt/013724.html)
+
+### Price 3rd
+
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-Algorithm" />
 </a>
@@ -103,6 +120,17 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-app" />
 </a>
 
+## The Obstacle Tower Challenge
+
+### [Unity Obstacle Tower Challenge](https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge)
+
+### A new benchmark for Artificial Intelligence (AI) research in Reinforcement Learning
+
+### World Ranking 24th
+
+<a href="https://github.com/chenkuansun/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TheObstacleTowerChallenge" />
+</a>
 
 # My Learning
 
