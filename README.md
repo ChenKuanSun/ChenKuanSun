@@ -183,7 +183,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 # My Learning
 
-## <img align="center" alt="Udacity" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/udacity.svg"/>
+## <img align="center" alt="Udacity" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8a60bd44bcb9d15e4a59d9d3f58ac9430bb59649/assets/udacity.svg"/>
 
 ### [Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
