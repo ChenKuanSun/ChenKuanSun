@@ -229,7 +229,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ## <img align="center" alt="coursera" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/coursera.svg"/>
 
-### Deep Learning Specialization
+### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <a href="https://github.com/chenkuansun/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Coursera-project-deep-learning" />
