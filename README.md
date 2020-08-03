@@ -4,13 +4,13 @@
 
 # Hi , I'm [CK Sun!](https://chenkuansun.github.io/)
 
-<a href="https://www.facebook.com/MidoYa">
+<a target="_blank" href="https://www.facebook.com/MidoYa">
   <img align="left" alt="ChenKuan Sun | Facebook" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-facebook-50.svg" />
 </a>
-<a href="https://www.linkedin.com/in/chenkuan-sun-430566132/">
+<a target="_blank" href="https://www.linkedin.com/in/chenkuan-sun-430566132/">
   <img align="left" alt="ChenKuan Sun | LinkedIn" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-linkedin-50.svg" />
 </a>
-<a href="https://medium.com/@fgriasa123">
+<a target="_blank" href="https://medium.com/@fgriasa123">
   <img align="left" alt="ChenKuan Sun | Medium" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-medium-50.svg" />
 </a>
 
@@ -26,7 +26,9 @@ Hi, I'm ChenKuan, a full stack web developer from Taiwan.
 - 💬 Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
 
 # Languages and Tools
+
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> --><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -38,20 +40,19 @@ Hi, I'm ChenKuan, a full stack web developer from Taiwan.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
 
-
 ## Level
+
 ### TypeScript
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/90/?title=Comfortable&width=300 "Typescript")
 
 ### Python
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> ![Python](https://progress-bar.dev/80/?title=Comfortable&width=300 "Python")
 
 ### C++
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/50/?title=Normal&width=330 "C++")
-
-
-
-
 
 ## GitHub
 
