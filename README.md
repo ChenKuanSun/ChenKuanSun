@@ -5,13 +5,13 @@
 # Hi , I'm [CK Sun!](https://chenkuansun.github.io/)
 
 <a target="_blank" href="https://www.facebook.com/MidoYa">
-  <img align="left" alt="ChenKuan Sun | Facebook" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-facebook-50.svg" />
+  <img align="left" alt="ChenKuan Sun | Facebook" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/icons8-facebook-50.svg" />
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/chenkuan-sun-430566132/">
-  <img align="left" alt="ChenKuan Sun | LinkedIn" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-linkedin-50.svg" />
+  <img align="left" alt="ChenKuan Sun | LinkedIn" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/icons8-linkedin-50.svg" />
 </a>
 <a target="_blank" href="https://medium.com/@fgriasa123">
-  <img align="left" alt="ChenKuan Sun | Medium" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/8c092feed1acd7733d08be9111ae694adf3c03cb/assets/icons8-medium-50.svg" />
+  <img align="left" alt="ChenKuan Sun | Medium" width="50px" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/icons8-medium-50.svg" />
 </a>
 
 <br />
@@ -32,21 +32,21 @@ Hi, I'm CK (ChenKuan), a software engineer from Taiwan.
 
 # Languages and Tools
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code> -->
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code><!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> --><code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code><!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> --><code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
 
 <br />
 <br />
 
 ## Cloud
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/google/google.png"></code>
 
 <br />
 <br />
@@ -55,15 +55,15 @@ Hi, I'm CK (ChenKuan), a software engineer from Taiwan.
 
 ### TypeScript
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/90/?title=Comfortable&width=300 "Typescript")
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code> ![Typescript](https://progress-bar.dev/90/?title=Comfortable&width=300 "Typescript")
 
 ### Python
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> ![Python](https://progress-bar.dev/80/?title=Comfortable&width=300 "Python")
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> ![Python](https://progress-bar.dev/80/?title=Comfortable&width=300 "Python")
 
 ### C++
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/50/?title=Normal&width=330 "C++")
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/50/?title=Normal&width=330 "C++")
 
 <br />
 <br />
@@ -91,29 +91,29 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 Software Engineer
 
 ### [Shuyo e-commerce website](https://www.shuyo.com.tw/)
-## <img align="center" alt="shuyo" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/shuyo.png"/>
+## <img align="center" alt="shuyo" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/shuyo.png"/>
 
 ### [APC e-commerce website](https://www.apc.com/tw/zh/)
-## <img align="center" alt="apc" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/apc.png"/>
+## <img align="center" alt="apc" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/apc.png"/>
 
 ### [Shin Kong Mitsukoshi Department Store - beautySTAGE美麗台 e-commerce website](https://www.beautystage.com.tw/)
-## <img align="center" alt="beautystage" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/beautystage.png"/>
+## <img align="center" alt="beautystage" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/beautystage.png"/>
 
 ### [Pili Single sign-on](https://sso.pili.com.tw/)
-## <img align="center" alt="pili sso" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/pilisso.png"/>
+## <img align="center" alt="pili sso" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/pilisso.png"/>
 
 ### [Pili Member center](https://sso-mem.pili.com.tw/)
-## <img align="center" alt="pili member" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/pilimem.png"/>
+## <img align="center" alt="pili member" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/pilimem.png"/>
 
 <br/>
 <br/>
 
 ## [SELLERLINX](https://sellerlinx.com/)
 
-Front End Lead
+Front End
 
 ### [SELLERLINX Manager](https://manager.sellerlinx.com/)
-## <img align="center" alt="sellerlinx manager" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/sellerlinxmanager.png"/>
+## <img align="center" alt="sellerlinx manager" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/sellerlinxmanager.png"/>
 
 
 
@@ -284,7 +284,7 @@ Front End Lead
 <br />
 <br />
 
-## <img align="center" alt="coursera" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/coursera.svg"/>
+## <img align="center" alt="coursera" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/master/assets/coursera.svg"/>
 
 ### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
