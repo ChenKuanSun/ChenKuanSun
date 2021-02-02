@@ -18,9 +18,10 @@
 <br />
 <br />
 
-Hi, I'm ChenKuan, a full stack web developer from Taiwan.
+Hi, I'm CK (ChenKuan), a software engineer from Taiwan.
 
 - I'm currently working on headless e-commerce platform [SELLERLINX](https://sellerlinx.com/)
+- This is our product, [SELLERLINX Manager](https://manager.sellerlinx.com/).
 - I'm currently learning GraphQL & MongoDB
 - Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
 
@@ -84,6 +85,38 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br />
 <br />
 
+# Project
+## [QOOBIT Productions Inc](https://qoobit.com/)
+
+Software Engineer
+
+### [Shuyo e-commerce website](https://www.shuyo.com.tw/)
+## <img align="center" alt="shuyo" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/shuyo.png"/>
+
+### [APC e-commerce website](https://www.apc.com/tw/zh/)
+## <img align="center" alt="apc" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/apc.png"/>
+
+### [Shin Kong Mitsukoshi Department Store - beautySTAGE美麗台 e-commerce website](https://www.beautystage.com.tw/)
+## <img align="center" alt="beautystage" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/beautystage.png"/>
+
+### [Pili Single sign-on](https://sso.pili.com.tw/)
+## <img align="center" alt="pili sso" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/pilisso.png"/>
+
+### [Pili Member center](https://sso-mem.pili.com.tw/)
+## <img align="center" alt="pili member" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/pilimem.png"/>
+
+<br/>
+<br/>
+
+## [SELLERLINX](https://sellerlinx.com/)
+
+Front End Lead
+
+### [SELLERLINX Manager](https://manager.sellerlinx.com/)
+## <img align="center" alt="sellerlinx manager" src="https://raw.githubusercontent.com/ChenKuanSun/ChenKuanSun/b89332c78520db78bb98b27e5f19ff9e1ab4196f/assets/sellerlinxmanager.png"/>
+
+
+
 # My Side Project
 
 ## MOPCON Section
@@ -131,6 +164,28 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/chenkuansun/Angular-Pagination">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Angular-Pagination" />
 </a>
+
+<br />
+<br />
+
+## Ithome ironman
+
+### [Azure Serverless 平步青雲，漫步雲端 系列](https://ithelp.ithome.com.tw/users/20130168/ironman/3637)
+<!-- 
+<a href="https://github.com/chenkuansun/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+</a> -->
+
+<br />
+<br />
+
+## [XChange](https://medium.com/xchange)
+
+### CRM
+<!-- 
+<a href="https://github.com/chenkuansun/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+</a> -->
 
 <br />
 <br />
