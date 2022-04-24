@@ -18,11 +18,9 @@
 <br />
 <br />
 
-Hi, I'm CK (ChenKuan), a software engineer from Taiwan.
+Hi, I'm CK (ChenKuan), a senior software engineer.
 
-- I'm currently working on headless e-commerce platform [SELLERLINX](https://sellerlinx.com/)
-- This is our product, [SELLERLINX Manager](https://manager.sellerlinx.com/).
-- I'm currently learning GraphQL & MongoDB
+- I'm currently working for [CISCO CX Mobile team](https://www.cisco.com/c/m/en_us/customer-experience/index.html) 
 - Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
 
 <br />
@@ -191,6 +189,17 @@ Front End
 <br />
 <br />
 <br />
+
+## NFT
+THE REMADE is the world's first wearable art brand from Metaverse that integrates virtual and reality goods. It was founded by Tommy Chen, a top artist who creates custom made sneakers for well known celebrities, artists and brands.
+
+### [THE REMADE](https://theremade.io/)
+Looking forward to helping stray cats while issuing NFTs.
+
+
+### [Pixelcatz](https://pixelcatz.com/)
+Looking forward to helping stray cats while issuing NFTs.
+
 
 # My Hackathon
 
