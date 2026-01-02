@@ -1,5 +1,5 @@
 <a href="https://github.com/chenkuansun/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenkuansun&show_icons=true&include_all_commits=true&theme=algolia" alt="CK's github stats" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api?username=chenkuansun&show_icons=true&include_all_commits=true&theme=algolia" alt="CK's github stats" />
 </a>
 
 # Hi , I'm [CK Sun!](https://chenkuansun.github.io/)
@@ -18,9 +18,10 @@
 <br />
 <br />
 
-Hi, I'm CK (ChenKuan), a senior software engineer.
+Hi, I'm CK (ChenKuan), Founder & CEO @ Affiora.
 
-- I'm currently working for [CISCO CX Mobile team](https://www.cisco.com/c/m/en_us/customer-experience/index.html) 
+- I'm building [Affiora](https://affiora.ai) — AI Twin Secretary for high-volume professionals
+- Previously Senior Software Engineer @ [CISCO CX Mobile team](https://www.cisco.com/c/m/en_us/customer-experience/index.html) 
 - Ask me about anything [here](https://github.com/chenkuansun/chenkuansun/issues)
 
 <br />
@@ -37,6 +38,16 @@ Hi, I'm CK (ChenKuan), a senior software engineer.
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code><!-- <code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> --><code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+
+<br />
+<br />
+
+## AI & Agents
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+
+LLM, Multi-Agent Systems, RAG, MCP
 
 <br />
 <br />
@@ -59,6 +70,10 @@ Hi, I'm CK (ChenKuan), a senior software engineer.
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code> ![Python](https://progress-bar.dev/80/?title=Comfortable&width=300 "Python")
 
+### LLM / AI Agents
+
+![LLM](https://progress-bar.dev/85/?title=Building%20Production%20Systems&width=300 "LLM")
+
 ### C++
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code> ![C++](https://progress-bar.dev/50/?title=Normal&width=330 "C++")
@@ -71,11 +86,11 @@ Hi, I'm CK (ChenKuan), a senior software engineer.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 <a href="https://github.com/chenkuansun/github-readme-stats">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenkuansun&layout=compact&theme=algolia" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/top-langs/?username=chenkuansun&layout=compact&theme=algolia" />
 </a>
 <!---https://vercel.com/chenkuansun/github-readme-stats
   if you have forked this to use on your profile,
-  Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`
+  Change the `github-readme-stats-delta-indol-54.vercel.app` to `github-readme-stats-delta-indol-54.vercel.app`
 --->
 
 <br />
@@ -122,7 +137,7 @@ Front End
 ### MOPCON Section: [用一場演講的時間，建構一個有些 AI 的無伺服器 APP](https://mopcon.org/2019/schedule/?id=2019012)
 
 <a href="https://github.com/chenkuansun/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
 </a>
 
 <br />
@@ -133,34 +148,34 @@ Front End
 ### Mask Map
 
 <a href="https://github.com/gdg-twhk/mask-web"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gdg-twhk&theme=algolia&repo=mask-web" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=gdg-twhk&theme=algolia&repo=mask-web" />
 </a>
 <!-- <a href="https://github.com/chenkuansun/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-web" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-web" />
 </a> -->
 
 ### TensorflowJS with angular demo using model. [Live Demo](https://stackblitz.com/edit/angular-tensorflow-demo)
 
 <a href="https://github.com/chenkuansun/angular-tensorflow-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=angular-tensorflow-demo" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=angular-tensorflow-demo" />
 </a>
 
 ### TensorflowJS with angular demo using model.
 
 <a href="https://github.com/chenkuansun/mask-angular-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-angular-demo" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=mask-angular-demo" />
 </a>
 
 ### code beautifier.
 
 <a href="https://github.com/chenkuansun/code-beautifier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=code-beautifier" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=code-beautifier" />
 </a>
 
 ### Angular Pagination Component.
 
 <a href="https://github.com/chenkuansun/Angular-Pagination">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Angular-Pagination" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Angular-Pagination" />
 </a>
 
 <br />
@@ -171,7 +186,7 @@ Front End
 ### [Azure Serverless 平步青雲，漫步雲端 系列](https://ithelp.ithome.com.tw/users/20130168/ironman/3637)
 <!-- 
 <a href="https://github.com/chenkuansun/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
 </a> -->
 
 <br />
@@ -182,7 +197,7 @@ Front End
 ### CRM
 <!-- 
 <a href="https://github.com/chenkuansun/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=amplify-demo-mopcon" />
 </a> -->
 
 <br />
@@ -210,7 +225,7 @@ Looking forward to helping stray cats while issuing NFTs.
 ### [Live Demo](https://www.twitch.tv/videos/509372078?t=06h59m28s)
 
 <a href="https://github.com/chenkuansun/2019-AWS-Twitch-Hackathon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=2019-AWS-Twitch-Hackathon" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=2019-AWS-Twitch-Hackathon" />
 </a>
 
 <br />
@@ -223,10 +238,10 @@ Looking forward to helping stray cats while issuing NFTs.
 ### Price 3rd
 
 <a href="https://github.com/chenkuansun/TMU-MIT-Hackathon-2019-Algorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-Algorithm" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-Algorithm" />
 </a>
 <a href="https://github.com/chenkuansun/TMU-MIT-Hackathon-2019-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-app" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TMU-MIT-Hackathon-2019-app" />
 </a>
 
 <br />
@@ -241,7 +256,7 @@ Looking forward to helping stray cats while issuing NFTs.
 ### World Ranking 24th
 
 <a href="https://github.com/chenkuansun/TheObstacleTowerChallenge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TheObstacleTowerChallenge" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=TheObstacleTowerChallenge" />
 </a>
 
 <br />
@@ -254,38 +269,38 @@ Looking forward to helping stray cats while issuing NFTs.
 ### [Self-Driving Car Engineer Nanodegree Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 
 <a href="https://github.com/chenkuansun/Self-Driving-CarND-LaneLines-P1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Self-Driving-CarND-LaneLines-P1" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Self-Driving-CarND-LaneLines-P1" />
 </a>
    
 <a href="https://github.com/chenkuansun/CarND-Advanced-Lane-Lines-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Advanced-Lane-Lines-master" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Advanced-Lane-Lines-master" />
 </a>
 <a href="https://github.com/chenkuansun/CarND-Traffic-Sign-Classifier-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Traffic-Sign-Classifier-Project" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Traffic-Sign-Classifier-Project" />
 </a>
 <a href="https://github.com/chenkuansun/CarND-Behavioral-Cloning-P3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Behavioral-Cloning-P3" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Behavioral-Cloning-P3" />
 </a>
 <a href="https://github.com/chenkuansun/CarND-Extended-Kalman-Filter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Extended-Kalman-Filter" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=CarND-Extended-Kalman-Filter" />
 </a>
 
 ### [Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 <a href="https://github.com/chenkuansun/machine-learning-P1-boston_housing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P1-boston_housing" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P1-boston_housing" />
 </a>
 <a href="https://github.com/chenkuansun/chenkuansun.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P2-finding_donors" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P2-finding_donors" />
 </a>
 <a href="https://github.com/chenkuansun/machine-learning-P3-CreatingCustomerSegments">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P3-CreatingCustomerSegments" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=machine-learning-P3-CreatingCustomerSegments" />
 </a>
 
 ### [Robotics Software Engineer Nanodegree](https://www.udacity.com/course/robotics-software-engineer--nd209)
 
 <a href="https://github.com/chenkuansun/RoboND-Rover-Project-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=RoboND-Rover-Project-master" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=RoboND-Rover-Project-master" />
 </a>
 
 <br />
@@ -298,7 +313,7 @@ Looking forward to helping stray cats while issuing NFTs.
 ### [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 <a href="https://github.com/chenkuansun/Coursera-project-deep-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Coursera-project-deep-learning" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Coursera-project-deep-learning" />
 </a>
 
 ## Offline Workshop
@@ -306,21 +321,21 @@ Looking forward to helping stray cats while issuing NFTs.
 ### Angular
 
 <a href="https://github.com/chenkuansun/DCT-108014">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=DCT-108014" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=DCT-108014" />
 </a>
 
 ### AWS DeepRacer
 
 <a href="https://github.com/chenkuansun/aws-deepracer-workshops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=aws-deepracer-workshops" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=aws-deepracer-workshops" />
 </a>
 
 ### Azure luis
 
 <a href="https://github.com/chenkuansun/azure-luis-chat-bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=azure-luis-chat-bot" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=azure-luis-chat-bot" />
 </a>
 
 <a href="https://github.com/chenkuansun/Chat-bot-practice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Chat-bot-practice" />
+  <img align="center" src="https://github-readme-stats-delta-indol-54.vercel.app/api/pin/?username=chenkuansun&theme=algolia&repo=Chat-bot-practice" />
 </a>
